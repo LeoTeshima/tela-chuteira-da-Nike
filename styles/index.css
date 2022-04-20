@@ -1,0 +1,10 @@
+body {
+    background-color: rgba(26, 25, 25, 0.945);
+}
+
+.content {
+    display: flex;
+    height: calc(100vh - 80px);
+    width: 100%;
+    padding: 0% 5%;
+}
